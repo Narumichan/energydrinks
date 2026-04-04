@@ -45,7 +45,7 @@ body{
   }
 
   tr:nth-child(1) td:first-child{
-    background-color: rgb(201, 68, 68);
+    background-color: rgb(201, 68, 65);
   }
   tr:nth-child(2) td:first-child{
     background-color: rgb(68, 114, 201);

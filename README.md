@@ -1,5 +1,6 @@
 # energydrinks
 A tierlist of energy drinks
-narumichan.github.io/energydrinks
+
+https://www.narumichan.github.io/energydrinks
 
 

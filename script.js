@@ -1,5 +1,6 @@
 $().ready(function() {
-    $.getJSON("/tierlist.json", function(tierlistData){
+    console.log("js is ready");
+    $.getJSON("https://narumichan.github.io/energydrinks/tierlist.json", function(tierlistData){
         console.log(tierlistData);
     });
  });

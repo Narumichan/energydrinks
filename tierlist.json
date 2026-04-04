@@ -1,0 +1,67 @@
+{
+    "tiers":[
+        {
+            "tierName":"God's Nectar",
+            "notes":"",
+            "drinks":[
+                {
+                    "name":"Booster Grapefruit",
+                    "image":"images/boosterGrape.png",
+                    "notes":"Crazyy actually rape booster  ilove it"
+                },
+                {
+                    "name":"Booster Lemon",
+                    "image":"images/boosterLemonLime.png",
+                    "notes":"daskmdaskadms kdmuwnd lemon lime"
+                },
+                {
+                    "name":"Monster Hamilton",
+                    "image":"images/monsterHamilton.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                }
+            ]
+        },
+        {
+            "tierName":"Daily Driver",
+            "notes":"",
+            "drinks":[
+                {
+                    "name":"Azijana strawberry",
+                    "image":"images/guaranaAzijana.png",
+                    "notes":"Crazyy actually rape booster  ilove it"
+                },
+                {
+                    "name":"Azijana candy ",
+                    "image":"images/guaranaAzijanaBlueCandy.png",
+                    "notes":"daskmdaskadms kdmuwnd lemon lime"
+                },
+                {
+                    "name":"guarana mojito",
+                    "image":"images/guaranaMojito.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                }
+            ]
+        },
+        {
+            "tierName":"Mango",
+            "notes":"",
+            "drinks":[
+
+            ]
+        },
+        {
+            "tierName":"Caffeine i guess",
+            "notes":"",
+            "drinks":[
+
+            ]
+        },
+        {
+            "tierName":"srkni pa crkni",
+            "notes":"",
+            "drinks":[
+
+            ]
+        }
+    ]
+}

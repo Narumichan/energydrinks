@@ -1,7 +1,97 @@
-h1 {
-  color: navy;
-  margin-left: 30px;
-}
-body {
+body{
   background-color: lightblue;
+}
+
+#titleDiv{
+  width: 500px;
+  background-color: rgb(93, 93, 136);
+  margin: auto;
+  text-align: center;
+
+  h1{
+    font-size: 40px;
+  }
+
+  h3{
+    font-size: 15px;
+    font-style: italic;
+    opacity: 50%;
+  }
+}
+
+#navBar{
+  width: auto;
+  margin: auto;
+  text-align: center;
+
+}
+
+#compactTierlistDiv{
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+   /*background-color: lightgreen;*/
+  max-width: fit-content;
+
+  td{
+    text-align: center;
+    margin: auto;
+    min-width: 100px;
+    min-height: 100px;
+  }
+
+  tr>td:nth-child(1){
+    font-size: 50px;
+  }
+
+  tr:nth-child(1) td:first-child{
+    background-color: rgb(201, 68, 68);
+  }
+  tr:nth-child(2) td:first-child{
+    background-color: rgb(68, 114, 201);
+  }
+  tr:nth-child(3) td:first-child{
+    background-color: rgb(204, 147, 41);
+  }
+  tr:nth-child(4) td:first-child{
+    background-color: rgb(85, 133, 41);
+  }
+  tr:nth-child(5) td:first-child{
+    background-color: rgb(66, 35, 15);
+  }
+}
+
+#generalTips{
+  margin: auto;
+  max-width: fit-content;
+  text-align: center;
+
+  ul{
+    margin: auto;
+  }
+
+  li{
+    text-align: left;
+  }
+}
+
+#drinkNotes{
+  max-width: fit-content;
+  margin: auto;
+  border: 1px black solid;
+}
+
+.drinkNote{
+  border: 1px solid green;
+  margin: 10px auto;
+
+  img{
+    display: inline;
+    text-align: left;
+  }
+
+  p{
+    display:inline;
+    text-align: right;
+  }
 }

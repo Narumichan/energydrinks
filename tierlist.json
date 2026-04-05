@@ -57,7 +57,7 @@
                 },
                 {
                     "name":"guarana mojito",
-                    "image":"images/monsterStrawberry.png",
+                    "image":"images/monsterUltraStrawberry.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 },
                 {
@@ -163,6 +163,11 @@
                 },
                 {
                     "name":"guarana mojito",
+                    "image":"images/hellMulti.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                },
+                {
+                    "name":"guarana mojito",
                     "image":"images/monsterWatermelon.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 }
@@ -194,7 +199,7 @@
                 },
                 {
                     "name":"guarana mojito",
-                    "image":"images/kongBlue.jpg",
+                    "image":"images/kongBlue.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 },
                 {
@@ -205,6 +210,21 @@
                 {
                     "name":"guarana mojito",
                     "image":"images/monsterRed.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                },
+                {
+                    "name":"guarana mojito",
+                    "image":"images/hellCherry.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                },
+                {
+                    "name":"guarana mojito",
+                    "image":"images/hellPomengranate.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                },
+                {
+                    "name":"guarana mojito",
+                    "image":"images/hellWatermelon.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 }
             ]
@@ -245,17 +265,22 @@
                 },
                 {
                     "name":"guarana mojito",
-                    "image":"images/kongRed.jpg",
+                    "image":"images/kongRed.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 },
                 {
                     "name":"guarana mojito",
-                    "image":"images/monsterLando.jpg",
+                    "image":"images/boosterMemory.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 },
                 {
                     "name":"guarana mojito",
-                    "image":"images/monsterBlue.jpg",
+                    "image":"images/monsterLando.png",
+                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                },
+                {
+                    "name":"guarana mojito",
+                    "image":"images/monsterBlue.png",
                     "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
                 }
             ]

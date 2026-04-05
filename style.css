@@ -42,6 +42,7 @@ body{
     min-height: 100px;
     max-width: 100px;
     max-height: 100px;
+    border: 2px solid black;
   }
 
   td.tier{
@@ -65,10 +66,7 @@ body{
   }
 
   .drinkCell img{
-    min-width: 100px;
-    min-height: 100px;
-    max-width: 100px;
-    max-height: 100px;
+    height:100%;
   }
 
 }
@@ -95,16 +93,23 @@ body{
 }
 
 .drinkNote{
+  display:flex;
+  align-items: top;
   border: 1px solid green;
   margin: 10px auto;
+  max-height: 100px;
 
   img{
     display: inline;
     text-align: left;
+    margin-right: 20px;
+    height: 100%;
+    max-height: 100px;
   }
 
   p{
     display:inline;
-    text-align: right;
+    text-align: center;
+    margin: 0;
   }
 }

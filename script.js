@@ -15,7 +15,7 @@ $().ready(function() {
         tierlistDiv.empty();
 
         tierlistDiv.append($("<table></table>"));
-        tierlistDiv.after($("<div id='drinkNotes'></div>"));
+        $("#drinkNotesHeading").after($("<div id='drinkNotes'></div>"));
         const drinkNotes = $("div#drinkNotes");
         const tierlistTable = $("#compactTierlistDiv>table");
         
@@ -38,7 +38,10 @@ $().ready(function() {
                 drinkNotes.append($("<div class='drinkNote'></div>"));
                 let drinkNote = drinkNotes.find($(`.drinkNote:nth-child(${drinkIndex})`));
                 drinkNote.append($(`<img src='${drink["image"]}'>`));
-                drinkNote.append($('<p></p>').text(drink["notes"]));
+                drinkNote.append($('<div class="drinkData"></div>'));
+                let noteData = drinkNote.find($("div"));
+                noteData.append($("<h3></h3>").text(drink["name"]));
+                noteData.append($("<p></p>").text(drink["notes"]));
             });
         });
 

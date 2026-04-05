@@ -6,33 +6,33 @@
         "~200mg is a good target to aim for in order to avoid developing a tolerance (too soon anyways)",
         "Addiction is bad :(",
         "Cycle off when you start taking ~300-400mg often",
-        "Avoid with alcohol! Makes it easy to drink too much"
+        "Avoid mixing with alcohol! Makes it easy to overdrink"
     ],
 
     "tiers":[
         {
-            "tierName":"God's Nectar",
+            "tierName":"Nectar of the gods",
             "notes":"",
             "drinks":[
                 {
                     "name":"Booster Grapefruit",
                     "image":"images/boosterGrape.png",
-                    "notes":"Crazyy actually rape booster  ilove it"
+                    "notes":"liquid meth"
                 },
                 {
-                    "name":"Booster Lemon",
+                    "name":"Booster Lemon Lime",
                     "image":"images/boosterLemon.png",
-                    "notes":"daskmdaskadms kdmuwnd lemon lime"
+                    "notes":"liquid meth lite"
                 },
                 {
-                    "name":"Monster Monarch",
+                    "name":"Monarch",
                     "image":"images/monsterMonarch.png",
-                    "notes":"daskmdaskadms kdmuwnd lemon lime"
+                    "notes":"The Queen"
                 },
                 {
-                    "name":"Monster Hamilton",
+                    "name":"Full Throttle",
                     "image":"images/monsterHamilton.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"fuck hamilton"
                 }
             ]
         },
@@ -41,59 +41,59 @@
             "notes":"",
             "drinks":[
                 {
-                    "name":"Azijana strawberry",
+                    "name":"Azijana",
                     "image":"images/guaranaAzijana.png",
-                    "notes":"Crazyy actually rape booster  ilove it"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"Azijana Lucky Lime ",
+                    "name":"Azijana Lucky Lime",
                     "image":"images/guaranaAzijanaLuckyLime.png",
-                    "notes":"daskmdaskadms kdmuwnd lemon lime"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Guarana Mojito",
                     "image":"images/guaranaMojito.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana joker peach",
+                    "name":"Joker Peach",
                     "image":"images/guaranaJokerPeach.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"The Doctor",
                     "image":"images/monsterDoctor.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Strawberry Dreams",
                     "image":"images/monsterUltraStrawberry.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Aussie Lemonade",
                     "image":"images/monsterAussie.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Spiritz",
                     "image":"images/hellSpiritz.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Lemon-Pink Grapefruit",
                     "image":"images/hellLemonPinkGrape.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Rosa",
                     "image":"images/monsterRosa.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Rehab Peach",
                     "image":"images/monsterRehabPeach.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 }
             ]
         },
@@ -102,196 +102,196 @@
             "notes":"",
             "drinks":[
                 {
-                    "name":"guarana mojito",
+                    "name":"Cactus",
                     "image":"images/guaranaCactus.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Azijana Blue Candy Explosion",
                     "image":"images/guaranaAzijanaBlueCandy.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Booster Mango",
                     "image":"images/boosterMango.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Joker Mango",
                     "image":"images/guaranaJokerMango.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell A.I.",
                     "image":"images/hellAi.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Focus",
                     "image":"images/hellFocus.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra White",
                     "image":"images/monsterWhite.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Gold",
                     "image":"images/monsterPineapple.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Mango Loco",
                     "image":"images/monsterMango.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Pacific Punch",
                     "image":"images/monsterPacific.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Joker Kiwi-Apple",
                     "image":"images/guaranaJokerKiwi.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Energy Passion Punch",
                     "image":"images/ultraPassion.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Khaotic",
                     "image":"images/monsterKhaotic.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Rio Punch",
                     "image":"images/monsterRio.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Multi+",
                     "image":"images/hellMulti.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Watermelon",
                     "image":"images/monsterWatermelon.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 }
             ]
         },
         {
-            "tierName":"Caffeine i guess",
+            "tierName":"Caffeine I guess...",
             "notes":"",
             "drinks":[
                 {
-                    "name":"guana mojito",
+                    "name":"Guarana Aphrodisiac",
                     "image":"images/guaranaAphrodisiac.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Joker",
                     "image":"images/guaranaJoker.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Energy Citrus Peach",
                     "image":"images/ultraCitrus.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Bad Apple",
                     "image":"images/monsterBadApple.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Kong Blue",
                     "image":"images/kongBlue.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Peach-Lemon",
                     "image":"images/hellPeachlemon.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Red",
                     "image":"images/monsterRed.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Black Cherry",
                     "image":"images/hellCherry.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Pomengranate",
                     "image":"images/hellPomengranate.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Watermelon",
                     "image":"images/hellWatermelon.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 }
             ]
         },
         {
-            "tierName":"srkni pa crkni",
+            "tierName":"Srkni pa Crkni",
             "notes":"",
             "drinks":[
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Energy Original",
                     "image":"images/ultraDefault.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Guarana Zero Original",
                     "image":"images/guaranaZero.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Guarana Original",
                     "image":"images/guaranaDefault.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Booster Original",
                     "image":"images/boosterDefault.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Hell Classic",
                     "image":"images/hellDefault.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Monster Energy",
                     "image":"images/monsterDefault.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Kong Red",
                     "image":"images/kongRed.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Booster Memory",
                     "image":"images/boosterMemory.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Lando Norris",
                     "image":"images/monsterLando.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 },
                 {
-                    "name":"guarana mojito",
+                    "name":"Ultra Blue",
                     "image":"images/monsterBlue.png",
-                    "notes":"dwkdmkwmdkwm hamilntomn brbrrrbrbr"
+                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
                 }
             ]
         }

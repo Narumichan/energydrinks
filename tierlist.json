@@ -1,4 +1,14 @@
 {
+    "advice":[
+        "Drink lots of water!",
+        "Drink chilled / cold to lessen the taste",
+        "Caffeine intake of up to 400mg/day is pretty safe, more serious side effects take place at doses of 1000mg+",
+        "~200mg is a good target to aim for in order to avoid developing a tolerance (too soon anyways)",
+        "Addiction is bad :(",
+        "Cycle off when you start taking ~300-400mg often",
+        "Avoid with alcohol! Makes it easy to drink too much"
+    ],
+
     "tiers":[
         {
             "tierName":"God's Nectar",

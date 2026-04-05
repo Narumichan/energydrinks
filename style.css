@@ -1,56 +1,137 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body{
-  background-color: lightblue;
+  background: #0f172a;
+  color: #e5e7eb;
+  font-family: Arial, sans-serif;
+}
+
+h2{
+  color: #e5e7eb;
+  text-align: center;
+}
+
+@keyframes leftRight{
+  0%{
+    rotate: 0deg;
+  }
+  25%{
+    rotate: -7deg;
+  }
+  75%{
+    rotate: 7deg;
+  }
+  100%{
+    rotate: 0deg;
+  }
 }
 
 #titleDiv{
-  width: 500px;
-  background-color: rgb(93, 93, 136);
+  width: 590px;
   margin: auto;
   text-align: center;
+  margin-bottom: 40px;
 
   h1{
-    font-size: 40px;
+    font-size: 50px;
+    font-style: italic;
+    font-family: Verdana;
+    margin-bottom: 0px;
   }
 
   h3{
-    font-size: 15px;
+    font-size: 10px;
     font-style: italic;
     opacity: 50%;
   }
 }
 
 #navBar{
-  width: auto;
-  margin: auto;
-  text-align: center;
+  display: flex;
+  margin-bottom: 40px;
+  gap: 10px;
+  justify-content: center;
 
+  button{
+    background: #334155;
+    border: none;
+    color: #e5e7eb;
+    font-family: Verdana;
+    font-size: 16px;
+    margin: 7px;
+    width: 100px;
+    height: 55px;
+    padding: 10px 16px;
+    border-radius: 8px;
+
+  }
+  button:hover{
+    background: #475569;
+    cursor: pointer;
+  }
+}
+
+
+#generalTips{
+  font-family: Verdana;
+  font-size: 16px;
+  color: #e5e7eb;
+  margin: auto;
+  max-width: fit-content;
+  text-align: center;
+  margin-bottom: 40px;
+
+  ul{
+    margin: auto;
+  }
+
+  li{
+    padding-left: 12px;
+    text-align: left;
+  }
 }
 
 #compactTierlistDiv{
   margin: auto;
   margin-top: 20px;
   text-align: center;
-  min-height: fit-content;
   max-width: fit-content;
+  margin-bottom: 40px;
 
   td{
     text-align: center;
     display: table-cell;
-    margin: auto;
-    height: 100px;
-    min-width: 100px;
-    min-height: 100px;
-    max-width: 100px;
-    max-height: 100px;
-    border: 2px solid black;
+    padding: 10px;
+
+    transition: all 0.15s ease-out
+    
+  }
+
+  .drinkCell:hover{
+    scale:1.2;
+    animation-delay: 0.2s;
+    animation-iteration-count: infinite;
+    animation-name: leftRight;
+    animation-duration: 5s;
+    cursor: pointer;
+  }
+  
+
+  .drinkCell img{
+    max-width: 50px;
   }
 
   td.tier{
     font-size: 25px;
+    min-width: 150px;
+    max-width: 150px;
   }
 
   tr:nth-child(1) td:first-child{
     background-color: rgb(201, 68, 65);
+    border-top-left-radius: 55px;
   }
   tr:nth-child(2) td:first-child{
     background-color: rgb(68, 114, 201);
@@ -63,27 +144,9 @@ body{
   }
   tr:nth-child(5) td:first-child{
     background-color: rgb(66, 35, 15);
+    border-bottom-left-radius: 55px;
   }
 
-  .drinkCell img{
-    height:100%;
-  }
-
-}
-
-
-#generalTips{
-  margin: auto;
-  max-width: fit-content;
-  text-align: center;
-
-  ul{
-    margin: auto;
-  }
-
-  li{
-    text-align: left;
-  }
 }
 
 #drinkNotes{

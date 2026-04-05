@@ -3,6 +3,14 @@ $().ready(function() {
     $.getJSON("https://narumichan.github.io/energydrinks/tierlist.json", function(tierlistData){
         console.log(tierlistData);
 
+        const generalTipsList = $("#generalTips>ul");
+        generalTipsList.empty();
+        $.each(tierlistData["advice"], function(i,text){
+            generalTipsList.append($("<li></li>").text(text));
+        });
+
+
+
         const tierlistDiv = $("#compactTierlistDiv");
         tierlistDiv.empty();
 

@@ -28,14 +28,16 @@ $().ready(function() {
             
             $.each(tier["drinks"], function(j, drink){
                 drinkIndex++;
+                let drinkNoteId = drink["image"].replace("images/","").replace(".png","");
                 //console.log(drinkIndex)
                 //console.log(`${tier["tierName"]} : ${drink["name"]}`);
-                tierRow.append($("<td class='drinkCell'></td>"));
+                tierRow.append($(`<td class='drinkCell'></td>`));
                 let drinkCell = tierRow.find($(`td:nth-child(${j+2})`));
-                drinkCell.append($(`<img src='${drink["image"]}'>`));
+                drinkCell.append(`<a href='#${drinkNoteId}'></a>`);
+                drinkCell.find("a").append($(`<img src='${drink["image"]}'>`));
 
 
-                drinkNotes.append($("<div class='drinkNote'></div>"));
+                drinkNotes.append($(`<div id='${drinkNoteId}' class='drinkNote'></div>`));
                 let drinkNote = drinkNotes.find($(`.drinkNote:nth-child(${drinkIndex})`));
                 drinkNote.append($(`<img src='${drink["image"]}'>`));
                 drinkNote.append($('<div class="drinkData"></div>'));

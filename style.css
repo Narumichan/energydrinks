@@ -5,11 +5,12 @@ html {
 body{
   background: #0f172a;
   color: #e5e7eb;
-  font-family: Arial, sans-serif;
+  font-family: Verdana;
 }
 
 h2{
   color: #e5e7eb;
+  font-family: Verdana;
   text-align: center;
 }
 
@@ -42,6 +43,7 @@ h2{
   }
 
   h3{
+    font-family: Verdana;
     font-size: 10px;
     font-style: italic;
     opacity: 50%;
@@ -53,12 +55,12 @@ h2{
   margin-bottom: 60px;
   gap: 10px;
   justify-content: center;
+  font-family: Verdana;
 
   button{
     background: #334155;
     border: none;
     color: #e5e7eb;
-    font-family: Verdana;
     font-size: 16px;
     margin: 7px;
     width: 100px;
@@ -95,6 +97,7 @@ h2{
 }
 
 #compactTierlistDiv{
+  font-family: Verdana;
   margin: auto;
   margin-top: 20px;
   text-align: center;
@@ -125,7 +128,6 @@ h2{
   }
 
   td.tier{
-    font-family: Verdana;
     font-size: 25px;
     color: black;
     min-width: 150px;
@@ -161,7 +163,6 @@ h2{
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
-  border: 1px green solid;
   
 }
 
@@ -174,10 +175,10 @@ h2{
 }
 
 .drinkNote{
+  font-family: Verdana;
   min-width: 400px;
   max-width: 400px;
   transition: scale 0.15s ease-in-out;
-  font-family: Verdana;
   font-size: 16px;
   padding: 20px;
   display:flex;
@@ -200,7 +201,8 @@ h2{
 
     h3{
       /*border: 1px solid white;*/
-      text-align: center;
+      margin-top: 0;
+      text-align: left;
     }
     
     p{

@@ -11,7 +11,7 @@
 
     "tiers":[
         {
-            "tierName":"Nectar of the gods",
+            "tierName":"Nectar of the Gods",
             "notes":"",
             "drinks":[
                 {
@@ -93,7 +93,12 @@
                 {
                     "name":"Rehab Peach",
                     "image":"images/monsterRehabPeach.png",
-                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
+                    "notes":"Mild taste but full of joy :3"
+                }
+                {
+                    "name":"Adrenalin Pineapple-Lemon",
+                    "image":"images/adrenalinPineapple.png",
+                    "notes":"Very nice pineapple taste. I wish Monster Ultra Gold was this good..."
                 }
             ]
         },
@@ -281,7 +286,7 @@
                 {
                     "name":"Booster Memory",
                     "image":"images/boosterMemory.png",
-                    "notes":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore et odio quod necessitatibus eum minus consequuntur cum dicta quisquam minima?"
+                    "notes":"Tastes like ACID. Absolutely undrinkable over ~7c. Avoid. Cute name tho."
                 },
                 {
                     "name":"Lando Norris",

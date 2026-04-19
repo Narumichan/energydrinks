@@ -77,6 +77,7 @@ h2{
 
 
 #generalTips{
+  padding: 20px;
   font-family: Verdana;
   font-size: 16px;
   color: #e5e7eb;
@@ -84,6 +85,9 @@ h2{
   max-width: fit-content;
   text-align: center;
   margin-bottom: 60px;
+
+  background-color: #33415545;
+  border-radius: 40px;
 
   ul{
     margin: auto;
@@ -135,8 +139,8 @@ h2{
   }
 
   tr:nth-child(1) td:first-child{
-    background-color: rgb(201, 68, 65);
     border-top-left-radius: 55px;
+    background-color: rgb(201, 68, 65);
   }
   tr:nth-child(2) td:first-child{
     background-color: rgb(68, 114, 201);
@@ -151,6 +155,7 @@ h2{
     background-color: rgb(114, 66, 33);
     border-bottom-left-radius: 55px;
   }
+  
 
 }
 
@@ -176,14 +181,14 @@ h2{
 
 .drinkNote{
   font-family: Verdana;
-  min-width: 400px;
-  max-width: 400px;
+  background-color: #33415545;
+  min-width: 405px;
+  max-width: 405px;
   transition: scale 0.15s ease-in-out;
   font-size: 16px;
   padding: 20px;
   display:flex;
   align-items: stretch;
-  border: 2px solid #334155;
   border-radius: 40px;
   gap: 20px;
   margin-bottom: 20px;
@@ -214,6 +219,6 @@ h2{
 }
 
 .drinkNote:hover{
-  border: 2px solid #9298a1;
+  /*border: 2px solid #9298a1;*/
   scale:1.05;
 }
